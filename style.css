@@ -1,0 +1,58 @@
+body {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#but {
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border: transparent;
+    background: greenyellow;
+    color: white;
+}
+
+#int {
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid #808080;
+}
+
+#myForm input {
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid gray;
+}
+
+#myForm button {
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: transparent;
+    background: greenyellow;
+    color: white;
+}
+
+#select{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid #808080;
+}
+
+#input{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid #808080;
+}
+
+#focusInput{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid #808080;
+}
